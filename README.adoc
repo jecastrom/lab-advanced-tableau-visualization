@@ -10,6 +10,7 @@
 :tab3: https://public.tableau.com/views/unit-4-lab_8/Sheet7?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 :tab4: https://public.tableau.com/views/unit-4-lab_9/Dashboard2?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+:tab5: https://public.tableau.com/views/unit-4-lab_10/Story1?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 :toc:
 :toc-title: For this lab, you will be using the output of the previous lab - the unit-4-lab.tbwx.
 :toc-placement!:
@@ -78,12 +79,20 @@ toc::[]
 
 == Create a Dashboard with these new charts.
 
-{tab4}[]
+`*_Answer:_*`
+
+{tab4}[Tableau Public: Dashboard with new charts]
+
 ====
 ''''
 ====
 
 == Create a story to summarize your analysis.
+
+`*_Answer:_*`
+
+{tab5}[Tableau Public: Story to summarize the analysis]
+
 
 xref:Lab-Advanced-Tableau-visualization[Top Section]
 
