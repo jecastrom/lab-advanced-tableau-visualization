@@ -100,6 +100,7 @@ image::https://user-images.githubusercontent.com/63274055/154764525-3acaf16b-70a
 
 `*_Answer:_*`
 
+
 image::https://user-images.githubusercontent.com/63274055/154764729-f3ec4399-c4aa-405d-bd4b-386e1e943223.png[width=400]
 
 {tab5}[Tableau Public: Story to summarize the analysis]
@@ -110,7 +111,7 @@ xref:Lab-Advanced-Tableau-visualization[Top Section]
 
 //{script-url}[text displayed with link opening in another tab,role=external,window=_blank]
 
-
+//{script-url}[text displayed with link opening in another tab,role=external,window=_blank]
 
 //bla bla blafootnote:[{fn-xxx}]
 
