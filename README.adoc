@@ -48,6 +48,9 @@ toc::[]
 
 `*_Answer:_*`
 
+image::https://user-images.githubusercontent.com/63274055/154763762-08ad55a0-9016-4b8a-8610-45f73a38dc98.png[width=400]
+
+
 {tab1}[Tableau Public: Choropleth map of the number of customers per State,window=_blank]
 
 
@@ -59,6 +62,8 @@ toc::[]
 
 `*_Answer:_*`
 
+image::https://user-images.githubusercontent.com/63274055/154764050-4ae84b96-f59f-46ad-b7e0-75109e2a8035.png[width=400]
+
 {tab2}[Tableau Public: regression plot of Customer Lifetime Value and Income,window=_blank]
 
 ====
@@ -68,6 +73,8 @@ toc::[]
 == Create a boxplot relating Total Claim Amount and Vehicle Size.
 
 `*_Answer:_*`
+
+image::https://user-images.githubusercontent.com/63274055/154764195-f4e67221-1d56-4bc9-8da7-6d140c19f441.png[width=400]
 
 {tab3}[Tableau Public: Boxplot relating Total Claim Amount and Vehicle Size]
 
@@ -81,6 +88,8 @@ toc::[]
 
 `*_Answer:_*`
 
+image::https://user-images.githubusercontent.com/63274055/154764525-3acaf16b-70ac-4e5e-8468-343850199dbc.png[width=400]
+
 {tab4}[Tableau Public: Dashboard with new charts]
 
 ====
@@ -90,6 +99,8 @@ toc::[]
 == Create a story to summarize your analysis.
 
 `*_Answer:_*`
+
+image::https://user-images.githubusercontent.com/63274055/154764729-f3ec4399-c4aa-405d-bd4b-386e1e943223.png[width=400]
 
 {tab5}[Tableau Public: Story to summarize the analysis]
 
