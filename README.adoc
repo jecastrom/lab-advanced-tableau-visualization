@@ -5,7 +5,8 @@
 :my-name: Jorge Castro DAPT NOV2021
 :description:
 //:fn-xxx: Add the explanation foot note here bla bla
-:tab6: https://public.tableau.com/views/unit-4-lab_6/Sheet5?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+:tab1: https://public.tableau.com/views/unit-4-lab_6/Sheet5?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
+:tab2: https://public.tableau.com/views/unit-4-lab_7/Sheet6?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 :toc:
 :toc-title: For this lab, you will be using the output of the previous lab - the unit-4-lab.tbwx.
 :toc-placement!:
@@ -43,9 +44,9 @@ toc::[]
 
 `*_Answer:_*`
 
-{tab6}[Tableau Public: Choropleth map of the number of customers per State,window=_blank]
+{tab1}[Tableau Public: Choropleth map of the number of customers per State,window=_blank]
 
-link:https://public.tableau.com/views/unit-4-lab_6/Sheet5?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link[Tableau Public: Choropleth map of the number of customers per State]
+
 ====
 ''''
 ====
@@ -54,6 +55,7 @@ link:https://public.tableau.com/views/unit-4-lab_6/Sheet5?:language=en-GB&publis
 
 `*_Answer:_*`
 
+{tab2}[Tableau Public: regression plot of Customer Lifetime Value and Income,window=_blank]
 
 ====
 ''''
