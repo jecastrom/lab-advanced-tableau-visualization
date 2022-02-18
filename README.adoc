@@ -1,12 +1,13 @@
-= Lab xxxx
+= Lab Advanced Tableau visualization
 :stylesheet: boot-darkly.css
 :linkcss: boot-darkly.css
 :image-url-ironhack: https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png
 :my-name: Jorge Castro DAPT NOV2021
 :description:
 //:fn-xxx: Add the explanation foot note here bla bla
+:tab6: https://public.tableau.com/views/unit-4-lab_6/Sheet5?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 :toc:
-:toc-title: Lab description: In this lab, you will....
+:toc-title: For this lab, you will be using the output of the previous lab - the unit-4-lab.tbwx.
 :toc-placement!:
 :toclevels: 5
 ifdef::env-github[]
@@ -38,15 +39,20 @@ toc::[]
 
 = Instructions:
 
-
+== Create a sheet with a Choropleth map of the number of customers per State.
 
 `*_Answer:_*`
+
+{tab6}[Tableau Public: Choropleth map of the number of customers per State^]
 
 
 ====
 ''''
 ====
 
+== Make a regression plot of Customer Lifetime Value and Income.
+
+`*_Answer:_*`
 
 
 ====
