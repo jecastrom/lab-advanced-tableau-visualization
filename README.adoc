@@ -37,6 +37,7 @@ image::{image-url-ironhack}[width=70]
 ====
 ''''
 ====
+
 toc::[]
 
 {description}
