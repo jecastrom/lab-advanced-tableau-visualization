@@ -59,14 +59,19 @@ toc::[]
 ''''
 ====
 
-
+== Create a boxplot relating Total Claim Amount and Vehicle Size.
 
 ====
 ''''
 ====
 
+== Create a Dashboard with these new charts.
 
+====
+''''
+====
 
+== Create a story to summarize your analysis.
 
 xref:Lab-xxxx[Top Section]
 
