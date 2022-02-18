@@ -43,7 +43,7 @@ toc::[]
 
 `*_Answer:_*`
 
-{tab6}[Tableau Public: Choropleth map of the number of customers per State,role=external,window=_blank]
+{tab6}[Tableau Public: Choropleth map of the number of customers per State,window=_blank]
 
 
 ====
