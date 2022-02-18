@@ -45,7 +45,7 @@ toc::[]
 
 {tab6}[Tableau Public: Choropleth map of the number of customers per State,window=_blank]
 
-
+link:https://public.tableau.com/views/unit-4-lab_6/Sheet5?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link[Tableau Public: Choropleth map of the number of customers per State]
 ====
 ''''
 ====
@@ -79,7 +79,7 @@ xref:Last-section[Bottom section]
 
 //{script-url}[text displayed with link opening in another tab,role=external,window=_blank]
 
-link:https://public.tableau.com/views/unit-4-lab_6/Sheet5?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link[alt]
+
 
 //bla bla blafootnote:[{fn-xxx}]
 
