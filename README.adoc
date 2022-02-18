@@ -82,9 +82,8 @@ toc::[]
 
 == Create a story to summarize your analysis.
 
-xref:Lab-xxxx[Top Section]
+xref:Lab-Advanced-Tableau-visualization[Top Section]
 
-xref:Last-section[Bottom section]
 
 //{script-url}[text displayed with link opening in another tab,role=external,window=_blank]
 
